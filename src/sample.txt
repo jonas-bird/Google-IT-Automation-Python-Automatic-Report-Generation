@@ -1,0 +1,2 @@
+Subject: I am a test
+I am a practice email to see if I can send email from the terminal.
