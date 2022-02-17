@@ -1,6 +1,6 @@
 # Automating Real-World Tasks: Automatic Output Generation 
 
-3'rd Project from Google's IT Automation With Python.   
+Project from Google's IT Automation With Python.   
 
 ## Technologies used 
 
