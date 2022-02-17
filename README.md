@@ -1,13 +1,13 @@
 # Automating Real-World Tasks: Automatic Output Generation 
 
-3'rd Project from Google's IT Automation With Python. 
+3'rd Project from Google's IT Automation With Python.   
 
 ## Technologies used 
 
-Python, pipenv for virtual environment and dependency management 
-Python's email library
-local SMTP server for testing, mailtrap.io for further testing 
-[ReportLab][https://bitbucket.org/rptlab/reportlab/src/default/] for pdf generation
+Python, pipenv for virtual environment and dependency management   
+Python's email library  
+local SMTP server for testing, mailtrap.io for further testing   
+[ReportLab][https://bitbucket.org/rptlab/reportlab/src/default/] for pdf generation  
 
 ## Problem Statement 
 
