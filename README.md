@@ -3,13 +3,12 @@
 Project from Google's IT Automation With Python.   
 
 ## Technologies Used 
-
-Python 3.6  
-pipenv for virtual environment and dependency management   
-Python email library    
-local SMTP server for testing   
-mailtrap.io to set up account to recieve test emails  
-[ReportLab](https://www.reportlab.com/) for pdf generation  
+- Python 3.6  
+- pipenv for virtual environment and dependency management   
+- Python email library    
+- local SMTP server for testing   
+- mailtrap.io to set up account to recieve test emails  
+- [ReportLab](https://www.reportlab.com/) for pdf generation  
 
 ## Problem Statement 
 
